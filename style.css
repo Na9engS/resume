@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #fff;
+}
+
+hr {
+    border: 1px solid #555;
+}
+
+ul, ol {
+    color: #ddd;
+}
+
+img.rounded-circle {
+    border: 5px solid #ccc;
+}
+
+footer {
+    color: #aaa;
+    font-size: 0.9rem;
+}
